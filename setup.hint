@@ -1,0 +1,4 @@
+category: KDE Games
+requires: libgcc1 libkdecore5 libkdeedu4 libphonon4 libQtCore4 libQtGui4 libQtSvg4 libstdc++6
+sdesc: "KDE anagram game"
+ldesc: "KDE education suite"
